@@ -2,7 +2,7 @@
 
 Scrape news sites and other sites that have a valid rss feed referenced:
 ```html
-<link rel="alternate" type="application/rss" href="https://news.site/feed.rss">
+<link rel="alternate" type="application/rss+xml" href="https://news.site/feed.rss">
 ````
 
 ## Setup
